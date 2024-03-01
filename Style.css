@@ -2,5 +2,11 @@ body {
   font-family: Georgia, serif;
   color: #FFFFFF
   line-height: 1.4em;
-  background-color: #000000
+  background-color: #000000;
+}
+
+p {
+  color: white;
+  text-align: center;
+  background-color: #000000;
 }
