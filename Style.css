@@ -1,16 +1,14 @@
 <style>
 P{
   background-color: black;
-  color:white
+  color: white
 }
 
 h1{
-  color: white;
   text-align: center;
 }
 
 a{
   font-family: verdana;
-  font-size: 20px;
+  font-size: 30px;
 }
-</style>
