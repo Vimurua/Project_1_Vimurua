@@ -1,15 +1,15 @@
 <style>
-body {
+P{
   background-color: black;
   color:white
 }
 
-h1 {
+h1{
   color: white;
   text-align: center;
 }
 
-p {
+a{
   font-family: verdana;
   font-size: 20px;
 }
