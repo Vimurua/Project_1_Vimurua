@@ -1,13 +1,6 @@
-<style>
-P{
-  background-color: black;
-}
-
-h1{
-  text-align: center;
-}
-
-a{
-  font-family: verdana;
-  font-size: 30px;
+body { 
+  font-family: Georgia, serif;
+  color: #FFFFFF
+  line-height: 1.4em;
+  background-color: #000000
 }
